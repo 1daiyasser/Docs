@@ -1,24 +1,22 @@
-## ✊🖐✌ Rock Paper Scissors Game
+# 🎰 Java Slot Game
 
-This is a simple **Rock Paper Scissors** game built using Java and runs in the terminal.
+Welcome to the **Java Slot Game**, a simple command-line slot machine built in Java.
 
-### 🎮 How it works:
-- The player is asked to enter their choice: `rock`, `paper`, or `scissors`.
-- The computer randomly chooses one of the three options.
-- The winner is determined based on classic rules:
-  - Rock beats Scissors
-  - Paper beats Rock
-  - Scissors beats Paper
-- If both choices are the same, it's a tie.
-- After each round, the player is asked if they want to play again.
+## 🎮 Features
+- Place your bet and spin the slot.
+- Match symbols to win payouts.
+- Balance updates after each spin.
 
-### 🔧 Technologies Used:
-- `Scanner` class for user input
-- `Random` class for generating computer moves
-- Java control structures (loops, conditions)
+## 🚀 Technologies Used
+- Java
+- Scanner for input
+- Random for symbol generation
 
-### 🧑‍💻 Author:
+## ✅ How to Play
+1. Run the program.
+2. Enter your starting balance.
+3. Enter your bet for each round.
+4. Try your luck!
+
+## 📌 Author
 - Dai Yasser
-
-
-
