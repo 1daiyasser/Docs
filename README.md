@@ -1,30 +1,3 @@
-# 🎰 Java Slot Game
-
-A simple console-based slot machine game written in Java.
-
-## 📝 Description
-
-This game allows the user to:
-- Enter a starting balance.
-- Place a bet each round.
-- Spin the slot machine.
-- Win or lose based on matching symbols.
-
-The game runs in the terminal and uses basic Java concepts like loops, conditions, `Scanner`, and `Random`.
-
----
-
-## 💻 How to Run
-
-1. Copy the code below into a file named `Main.java`.
-2. Compile the code:
-   ```bash
-   jjavaavac Main.
-
-## 📌 Author
-- Dai Yasser
-
-
 import java.util.Random;
 import java.util.Scanner;
 
