@@ -18,4 +18,5 @@ This project demonstrates the use of **Java multithreading** and the **java.time
 
 ---
 
-## 📂 Project Structure
+## Author:
+Dai Yasser
